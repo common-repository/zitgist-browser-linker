@@ -1,0 +1,57 @@
+.zitgist_popup {
+	position: absolute;
+	background:#E6E6E6 url(../imgs/menu_grad.jpg) repeat-x scroll center top;
+	border:1px solid #BCBEB0;	
+	z-index:1000;
+}
+
+
+.zitgist_popup a {
+	text-decoration:none;
+	color:#2277DD;
+	font-family:'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;	
+}
+
+.header_container {
+	padding: 2px;
+	height:16px;
+}
+
+
+.zitgist_menu {
+	padding:2px;
+	text-align:left;
+}
+
+.zitgist_menu div:hover{
+	background-color: #C5C5C5;
+	cursor:pointer;
+}
+
+.zitgist_menu_item {
+	padding:1px 5px 1px 5px;
+/*	height:16px;*/
+}
+
+.zitgist_menu_img {
+	position:relative;
+	padding: 0px;
+	padding-right: 5px;
+/*	float:left;*/
+	top:3px;
+}
+
+.zitgist_menu_separator {
+	border-bottom: 1px solid #999999;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.zitgist_logo_img {
+	position:relative;
+}
